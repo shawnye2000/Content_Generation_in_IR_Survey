@@ -1,1 +1,1 @@
-# Generative_Supply_Side_Optimization_Survey
+# Content_Generation_in_IR_Survey
