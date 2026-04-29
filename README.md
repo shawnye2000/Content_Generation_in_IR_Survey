@@ -19,7 +19,6 @@
 
 #### Personalized Image Generation
 
-#### Personalized Outfit Image Complement
 
 #### Personalized Text Generation
 
