@@ -87,5 +87,7 @@
 #### 🛍️  On-Demand Product Generation
 1. **Sell It Before You Make It: Revolutionizing E-Commerce with Personalized AI-Generated Items**, arXiv 2025. [[Paper]](https://arxiv.org/abs/2503.22182) ![](https://img.shields.io/badge/On-Demand_Product_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
+---
+
 ## 🤝 Contribution
 :tada::+1: Please feel free to open an issue or make a pull request! :tada::+1:
