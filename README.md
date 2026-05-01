@@ -1,11 +1,13 @@
-# Survey: Content-Generation-for-IR-System
+# 🎯 Survey: Content-Generation-for-IR-System
 
  This is the collection of papers related to bias and fairness in IR with LLMs. These papers are organized according to our survey paper **Content Generation for Information Retrieval Systems: A Survey from the Supply-Side Optimization Perspective** [[PDF]]().
 
-## 📄 Paper List
+---
 
-### Generic Content Generation
-#### Advertising Content Generation
+## 📚 Paper List
+
+### 🧩 Generic Content Generation
+#### 📢 Advertising Content Generation
 1. **Neural Retrievers are Biased Towards LLM-Generated Content**, KDD 2024. [[Paper]](https://arxiv.org/abs/2310.20501) ![](https://img.shields.io/badge/Source_Bias-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 2. **Invisible Relevance Bias: Text-Image Retrieval Models Prefer AI-Generated Images**, SIGIR 2024. [[Paper]](https://arxiv.org/abs/2311.14084) ![](https://img.shields.io/badge/Source_Bias-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 3. **Blinded by Generated Contexts: How Language Models Merge Generated and Retrieved Contexts for Open-Domain QA?**, ACL 2024. [[Paper]](https://arxiv.org/abs/2401.11911) ![](https://img.shields.io/badge/Source_Bias-orange)
@@ -21,7 +23,7 @@
 8. **CTR-Driven Ad Text Generation via Online Feedback Preference Optimization**, arXiv 2025. [[Paper]](https://arxiv.org/abs/2507.20227) ![](https://img.shields.io/badge/Advertising_Text_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 9. **LLM-driven Constrained Copy Generation through Iterative Refinement**, arXiv 2025. [[Paper]](https://arxiv.org/abs/2504.10391) ![](https://img.shields.io/badge/Advertising_Text_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
-#### Advertising Image Generation
+#### 🖼️ Advertising Image Generation
 1. **Persuasive Faces: Generating Faces in Advertisements**, arXiv 2018. [[Paper]](https://arxiv.org/abs/1807.09882) ![](https://img.shields.io/badge/Advertising_Image_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 2. **AutoPoster: A Highly Automatic and Content-aware Design System for Advertising Poster Generation**, MM 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611930) ![](https://img.shields.io/badge/Advertising_Image_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 3. **TextPainter: Multimodal Text Image Generation with Visual-harmony and Text-comprehension for Poster Design**, MM 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611929) ![](https://img.shields.io/badge/Advertising_Image_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
@@ -39,20 +41,20 @@
 15. **T-Stars-Poster: A Framework for Product-Centric Advertising Image Design**, CIKM 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761554) ![](https://img.shields.io/badge/Advertising_Image_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 16. **CTR-Driven Advertising Image Generation with Multimodal Large Language Models**, WWW 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3696410.3714836) ![](https://img.shields.io/badge/Advertising_Image_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
-#### Advertising Video Generation
+#### 🎬 Advertising Video Generation
 1. **VC-LLM: Automated Advertisement Video Creation from Raw Footage using Multi-modal LLMs**, arXiv 2025. [[Paper]](https://arxiv.org/pdf/2504.05673) ![](https://img.shields.io/badge/Advertising_Video_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
-#### Item Description Completion
+#### 📝 Item Description Completion
 1. **LLM Based Generation of Item-Description for Recommendation System**, RecSys 2023. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3604915.3610647) ![](https://img.shields.io/badge/Item_Description_Completion-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 2. **Using Large Language Models to Improve Product Information in E-commerce Catalogs**, CIKM 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761437) ![](https://img.shields.io/badge/Item_Description_Completion-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
-#### Generative Engine Optimization (GEO)
+#### 🔍 Generative Engine Optimization (GEO)
 1. **GEO: Generative Engine Optimization**, KDD 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3671900) ![](https://img.shields.io/badge/Generative_Engine_Optimization-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 2. **What Generative Search Engines Like and How to Optimize Web Content Cooperatively**, ICLR 2026. [[Paper]](https://openreview.net/forum?id=K8EinVWtUB) ![](https://img.shields.io/badge/Generative_Engine_Optimization-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 3. **AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization**, arXiv 2026. [[Paper]](https://arxiv.org/html/2603.20213v1) ![](https://img.shields.io/badge/Generative_Engine_Optimization-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
-### Personalized Content Generation
-#### Personalized Image Generation
+### 👤 Personalized Content Generation
+#### 🖼️ Personalized Image Generation
 1. **PMG: Personalized Multimodal Generation with Large Language Models**, WWW 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645633) ![](https://img.shields.io/badge/Personalized_Generic_Image_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 2. **I-AM-G: Interest Augmented Multimodal Generator for Item Personalization**, EMNLP 2024. [[Paper]](https://aclanthology.org/2024.emnlp-main.1187/) ![](https://img.shields.io/badge/Personalized_Generic_Image_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 3. **Personalized Image Generation for Recommendations Beyond Catalogs**, RecSys 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3705328.3748757) ![](https://img.shields.io/badge/Personalized_Generic_Image_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
@@ -70,20 +72,20 @@
 7. **Sell It Before You Make It: Revolutionizing E-Commerce with Personalized AI-Generated Items**, arXiv 2025. [[Paper]](https://arxiv.org/abs/2503.22182) ![](https://img.shields.io/badge/Personalized_Outfit_Image_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 8. **FashionDPO: Fine-tune Fashion Outfit Generation Model using Direct Preference Optimization**, SIGIR 2025. [[Paper]](https://dl.acm.org/doi/10.1145/3726302.3729976) ![](https://img.shields.io/badge/Personalized_Outfit_Image_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
-#### Personalized Text Generation
+#### ✍️ Personalized Text Generation
 1. **Put Your Voice on Stage: Personalized Headline Generation for News Articles**, TKDD 2023. [[Paper]](https://dl.acm.org/doi/full/10.1145/3629168) ![](https://img.shields.io/badge/Personalized_Text_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 2. **HLLM-Creator: Hierarchical LLM-based Personalized Creative Generation**, arXiv 2025. [[Paper]](https://arxiv.org/abs/2508.18118) ![](https://img.shields.io/badge/Personalized_Text_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
-#### Personalized Video Generation
+#### 🎥  Personalized Video Generation
 1. **NextAds: Towards Next-generation Personalized Video Advertising**, arXiv 2026. [[Paper]](https://arxiv.org/abs/2603.02137) ![](https://img.shields.io/badge/Personalized_Video_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
-#### Search Advertisement Generation
+#### 🔎 Search Advertisement Generation
 1. **Generating Better Search Engine Text Advertisements with Deep Reinforcement Learning**, KDD 2019. [[Paper]](https://dl.acm.org/doi/10.1145/3292500.3330754) ![](https://img.shields.io/badge/Search_Advertisement_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 2. **Reinforcing Pretrained Models for Generating Attractive Text Advertisements**, KDD 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467105) ![](https://img.shields.io/badge/Search_Advertisement_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 3. **DeepGen: Diverse Search Ad Generation and Real-Time Customization**, EMNLP 2022. [[Paper]](https://aclanthology.org/2022.emnlp-demos.19/) ![](https://img.shields.io/badge/Search_Advertisement_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
-#### On-Demand Product Generation
+#### 🛍️  On-Demand Product Generation
 1. **Sell It Before You Make It: Revolutionizing E-Commerce with Personalized AI-Generated Items**, arXiv 2025. [[Paper]](https://arxiv.org/abs/2503.22182) ![](https://img.shields.io/badge/On-Demand_Product_Generation-orange) ![](https://img.shields.io/badge/Regularization-darkcyan)
 
-## Contribution
+## 🤝 Contribution
 :tada::+1: Please feel free to open an issue or make a pull request! :tada::+1:
