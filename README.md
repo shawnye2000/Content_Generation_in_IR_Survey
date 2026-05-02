@@ -1,6 +1,6 @@
 # 🎯 Survey: Content-Generation-for-IR-System
 
- This is the collection of papers related to bias and fairness in IR with LLMs. These papers are organized according to our survey paper **Content Generation for Information Retrieval Systems: A Survey from the Supply-Side Optimization Perspective** [[PDF]](https://www.researchgate.net/publication/404225930_Content_Generation_for_Information_Retrieval_Systems_A_Survey_from_the_Supply-Side_Optimization_Perspective#fullTextFileContent).
+ This is the collection of papers related to content generation for IR systems with generative models. These papers are organized according to our survey paper **Content Generation for Information Retrieval Systems: A Survey from the Supply-Side Optimization Perspective** [[PDF]](https://www.researchgate.net/publication/404225930_Content_Generation_for_Information_Retrieval_Systems_A_Survey_from_the_Supply-Side_Optimization_Perspective#fullTextFileContent).
 
 ---
 
